@@ -7,7 +7,7 @@ int main () {
     int choice;
 
     while (1) {
-        printf("\n0.Enter a and b\n1.addition\n2.substract\n3.multiply\n4.devide\n5.modulus\n6.Exit\n");
+        printf("\n0.Enter a and b\n1.addition\n2.substract\n3.multiply\n4.divide\n5.modulus\n6.Exit\n");
         printf("Enter choice : ");
         scanf("%d",&choice);
 
@@ -60,4 +60,3 @@ int main () {
         }
     }
 }
-
